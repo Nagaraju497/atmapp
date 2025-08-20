@@ -15,6 +15,7 @@ public class Admin {
 
 	
 	
+	//this add account
 	public void addNewAccount() throws InvalidPINException, InvalidAccountNumberException {
 		System.out.println(Consolecolors.YELLOW + "enter username :" + Consolecolors.RESET);
 		String username = sc.next();
