@@ -66,7 +66,7 @@ This is a **Java-based ATM Application** that simulates core banking operations,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/java-atm-application.git
+https://github.com/Nagaraju497/atmapp
 ```
 
 2. Navigate to the project directory:
