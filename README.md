@@ -105,8 +105,3 @@ java Main
 * Email: sunkaranagaraju07@gmail.com
 * GitHub: https://github.com/Nagaraju497
 
----
-
-I can also create a **more visually appealing README** with **badges, screenshots, and table of features** if you want it ready for GitHub.
-
-Do you want me to do that?
